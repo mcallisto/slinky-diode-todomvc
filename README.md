@@ -1,3 +1,4 @@
+![CI](https://github.com/mcallisto/slinky-diode-todomvc/workflows/CI/badge.svg)
 # Slinky with Diode TodoMVC example
 Refactoring of [TodoMVC](https://github.com/tastejs/todomvc) coded in [Scala](https://scala-lang.org/) through [Scala.js](https://www.scala-js.org), [Slinky](https://slinky.dev) and [Diode](https://github.com/suzaku-io/diode).
 
